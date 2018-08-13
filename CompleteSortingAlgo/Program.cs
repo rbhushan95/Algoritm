@@ -10,6 +10,7 @@ namespace CompleteSortingAlgo
     {
         static void Main(string[] args)
         {
+            
             int[] inputArray = { 10, 5, 15, 18, 19, 42, 15, 32, 99, 100 };
             Console.WriteLine("input data is :- " + SortingLogic.ArrayToString(inputArray));
             SortingLogic.InsertionSorting(inputArray);

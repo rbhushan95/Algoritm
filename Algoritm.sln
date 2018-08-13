@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeSorting", "MergeSortin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompleteSortingAlgo", "CompleteSortingAlgo\CompleteSortingAlgo.csproj", "{B0492458-BFFC-4F51-914F-E3C0FA445A9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorDemo", "ConstructorDemo\ConstructorDemo.csproj", "{3B9F7FDA-9CDC-4A26-904B-FB148AF8A3A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{B0492458-BFFC-4F51-914F-E3C0FA445A9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0492458-BFFC-4F51-914F-E3C0FA445A9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0492458-BFFC-4F51-914F-E3C0FA445A9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B9F7FDA-9CDC-4A26-904B-FB148AF8A3A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B9F7FDA-9CDC-4A26-904B-FB148AF8A3A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B9F7FDA-9CDC-4A26-904B-FB148AF8A3A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B9F7FDA-9CDC-4A26-904B-FB148AF8A3A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
